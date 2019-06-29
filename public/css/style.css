@@ -424,25 +424,46 @@ li {
 -------------------- */
 
 .logo_area .yummy-logo {
-    font-family: 'Shadows Into Light Two', cursive;
-    font-size: 60px;
+    font-family:'Shadows Into Light Two', cursive;
+    font-size: 40px;
     margin-bottom: 0;
-    padding: 35px 0 20px 0;
+    padding: 20px 0 20px 0;
     display: inline-block;
     color: #232d37;
+    background: #fee2d9;
+    height: 80px;
+    width: 80%;
+    line-height: 40px;
+    border-radius: 10px;
+    margin-top: 9px;
+}
+
+.logo_area .yummy-logoo {
+    font-family:'Shadows Into Light Two', cursive;
+    font-size: 40px;
+    margin-bottom: 0;
+    padding: 20px 0 20px 0;
+    display: inline-block;
+    color: #232d37;
+    background: #fee2d9;
+    height: 60px;
+    width: 60%;
+    line-height: 40px;
+    border-radius: 10px;
+    margin-top: 9px;
 }
 
 .navbar.navbar-expand-lg {
-    padding: 0;
+    padding: 0px;
 }
 
 .navbar.navbar-expand-lg .navbar-nav .nav-link {
     padding: 25px 30px;
     color: #232d37;
     text-transform: uppercase;
-    font-size: 14px;
-    border-top: 1px solid #ebebeb;
-    border-bottom: 1px solid #ebebeb;
+    font-size: 16px;
+    border-top: 2px solid #ebebeb;
+    border-bottom: 2px solid #ebebeb;
 }
 
 .navbar.navbar-expand-lg .navbar-nav .nav-link:hover,
